@@ -173,3 +173,35 @@ h2{
 
 
 /*  FIN FAVORITO */
+
+
+/* inicio de formulario */
+
+.padreFormu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.formu label{ 
+    margin: 1rem;
+    font-size: 2rem;
+}
+.formu input{
+    padding: 1rem;
+    border-radius: 1rem;
+
+}
+
+.formu {
+    margin: 1rem;
+
+}
+
+fieldset {
+    width: 30rem;
+    margin: 3rem auto;
+    border: none;
+}
